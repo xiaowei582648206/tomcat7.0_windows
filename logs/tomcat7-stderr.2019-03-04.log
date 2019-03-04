@@ -1,0 +1,1077 @@
+
+2019-03-04 11:32:46 Commons Daemon procrun stderr initialized
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.93
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Feb 16 2019 17:13:17 UTC
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.93.0
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 7
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            6.1
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java\jre1.8.0_191
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_191-b12
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 7.0\temp
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 7.0\conf\logging.properties
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: exit
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: abort
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xms128m
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xmx256m
+三月 04, 2019 11:32:47 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Apache Software Foundation\Tomcat 7.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Program Files\Java\jdk1.8.0_191\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;;.
+三月 04, 2019 11:32:47 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-8080"]
+三月 04, 2019 11:32:47 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 792 ms
+三月 04, 2019 11:32:47 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2019 11:32:47 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.93
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\docs
+三月 04, 2019 11:32:47 上午 org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+警告: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [109] milliseconds.
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\docs has finished in 499 ms
+三月 04, 2019 11:32:47 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\manager
+三月 04, 2019 11:32:48 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\manager has finished in 94 ms
+三月 04, 2019 11:32:48 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT
+三月 04, 2019 11:32:48 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT has finished in 78 ms
+三月 04, 2019 11:32:48 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-8080"]
+三月 04, 2019 11:32:48 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 11:32:48 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 730 ms
+三月 04, 2019 11:42:31 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-8080"]
+三月 04, 2019 11:42:31 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 11:42:31 上午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+三月 04, 2019 11:42:31 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-bio-8080"]
+三月 04, 2019 11:42:31 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 11:42:31 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-8080"]
+三月 04, 2019 11:42:31 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
+
+2019-03-04 11:42:43 Commons Daemon procrun stderr initialized
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.93
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Feb 16 2019 17:13:17 UTC
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.93.0
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 7
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            6.1
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java\jre1.8.0_191
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_191-b12
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 7.0\temp
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 7.0\conf\logging.properties
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: exit
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: abort
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xms128m
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xmx256m
+三月 04, 2019 11:42:44 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Apache Software Foundation\Tomcat 7.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Program Files\Java\jdk1.8.0_191\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;;.
+三月 04, 2019 11:42:44 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-80"]
+三月 04, 2019 11:42:44 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 685 ms
+三月 04, 2019 11:42:44 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2019 11:42:44 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.93
+三月 04, 2019 11:42:44 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\docs
+三月 04, 2019 11:42:45 上午 org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+警告: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [109] milliseconds.
+三月 04, 2019 11:42:45 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\docs has finished in 487 ms
+三月 04, 2019 11:42:45 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\manager
+三月 04, 2019 11:42:45 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\manager has finished in 63 ms
+三月 04, 2019 11:42:45 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT
+三月 04, 2019 11:42:45 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT has finished in 78 ms
+三月 04, 2019 11:42:45 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-80"]
+三月 04, 2019 11:42:45 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 11:42:45 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 694 ms
+三月 04, 2019 11:50:48 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-80"]
+三月 04, 2019 11:50:48 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 11:50:48 上午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+三月 04, 2019 11:50:48 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-bio-80"]
+三月 04, 2019 11:50:48 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 11:50:48 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-80"]
+三月 04, 2019 11:50:48 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
+
+2019-03-04 11:51:03 Commons Daemon procrun stderr initialized
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.93
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Feb 16 2019 17:13:17 UTC
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.93.0
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 7
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            6.1
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java\jre1.8.0_191
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_191-b12
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 7.0\temp
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 7.0\conf\logging.properties
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: exit
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: abort
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xms128m
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xmx256m
+三月 04, 2019 11:51:04 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Apache Software Foundation\Tomcat 7.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Program Files\Java\jdk1.8.0_191\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;;.
+三月 04, 2019 11:51:04 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-80"]
+三月 04, 2019 11:51:04 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 11:51:04 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 717 ms
+三月 04, 2019 11:51:04 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2019 11:51:04 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.93
+三月 04, 2019 11:51:05 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\docs
+三月 04, 2019 11:51:05 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\docs has finished in 80 ms
+三月 04, 2019 11:51:05 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\manager
+三月 04, 2019 11:51:05 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\manager has finished in 118 ms
+三月 04, 2019 11:51:05 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT
+三月 04, 2019 11:51:05 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT has finished in 62 ms
+三月 04, 2019 11:51:05 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-80"]
+三月 04, 2019 11:51:05 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 11:51:05 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 788 ms
+三月 04, 2019 3:11:50 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:11:50 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:11:50 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+三月 04, 2019 3:11:50 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:11:50 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:11:50 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:11:50 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
+
+2019-03-04 15:12:12 Commons Daemon procrun stderr initialized
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.93
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Feb 16 2019 17:13:17 UTC
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.93.0
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 7
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            6.1
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java\jre1.8.0_191
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_191-b12
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 7.0\temp
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 7.0\conf\logging.properties
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: exit
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: abort
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xms128m
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xmx256m
+三月 04, 2019 3:12:13 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Apache Software Foundation\Tomcat 7.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Program Files\Java\jdk1.8.0_191\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;;.
+三月 04, 2019 3:12:13 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:12:13 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:12:13 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 708 ms
+三月 04, 2019 3:12:13 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2019 3:12:13 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.93
+三月 04, 2019 3:12:14 下午 org.apache.catalina.core.ContainerBase startInternal
+严重: A child container failed during start
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:819)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1707)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1697)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: Error page location error.jsp must start with a '/'
+	at org.apache.catalina.core.StandardContext.addErrorPage(StandardContext.java:3200)
+	at org.apache.catalina.deploy.WebXml.configureContext(WebXml.java:1348)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1300)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:881)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5590)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+
+三月 04, 2019 3:12:14 下午 org.apache.catalina.core.ContainerBase startInternal
+严重: A child container failed during start
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:300)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:444)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:758)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:711)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:294)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:428)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1707)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1697)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1254)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:819)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	... 8 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: Error page location error.jsp must start with a '/'
+	at org.apache.catalina.core.StandardContext.addErrorPage(StandardContext.java:3200)
+	at org.apache.catalina.deploy.WebXml.configureContext(WebXml.java:1348)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1300)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:881)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5590)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+
+三月 04, 2019 3:12:14 下午 org.apache.catalina.startup.Catalina start
+严重: The required Server component failed to start so Tomcat is unable to start.
+org.apache.catalina.LifecycleException: Failed to start component [StandardServer[8005]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:711)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:294)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:428)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardService[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:758)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 7 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:444)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 9 more
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1254)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:300)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 11 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	... 13 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1707)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1697)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1254)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:819)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	... 8 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: Error page location error.jsp must start with a '/'
+	at org.apache.catalina.core.StandardContext.addErrorPage(StandardContext.java:3200)
+	at org.apache.catalina.deploy.WebXml.configureContext(WebXml.java:1348)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1300)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:881)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5590)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+
+三月 04, 2019 3:12:14 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:12:14 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:12:14 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+三月 04, 2019 3:12:14 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:12:14 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
+
+2019-03-04 15:37:29 Commons Daemon procrun stderr initialized
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.93
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Feb 16 2019 17:13:17 UTC
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.93.0
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 7
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            6.1
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java\jre1.8.0_191
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_191-b12
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 7.0\temp
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 7.0\conf\logging.properties
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: exit
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: abort
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xms128m
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xmx256m
+三月 04, 2019 3:37:30 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Apache Software Foundation\Tomcat 7.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Program Files\Java\jdk1.8.0_191\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;;.
+三月 04, 2019 3:37:30 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:37:30 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:37:30 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 722 ms
+三月 04, 2019 3:37:30 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2019 3:37:30 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.93
+三月 04, 2019 3:37:31 下午 org.apache.catalina.core.ContainerBase startInternal
+严重: A child container failed during start
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:819)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1707)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1697)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: Error page location error.jsp must start with a '/'
+	at org.apache.catalina.core.StandardContext.addErrorPage(StandardContext.java:3200)
+	at org.apache.catalina.deploy.WebXml.configureContext(WebXml.java:1348)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1300)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:881)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5590)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+
+三月 04, 2019 3:37:31 下午 org.apache.catalina.core.ContainerBase startInternal
+严重: A child container failed during start
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:300)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:444)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:758)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:711)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:294)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:428)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1707)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1697)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1254)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:819)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	... 8 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: Error page location error.jsp must start with a '/'
+	at org.apache.catalina.core.StandardContext.addErrorPage(StandardContext.java:3200)
+	at org.apache.catalina.deploy.WebXml.configureContext(WebXml.java:1348)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1300)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:881)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5590)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+
+三月 04, 2019 3:37:31 下午 org.apache.catalina.startup.Catalina start
+严重: The required Server component failed to start so Tomcat is unable to start.
+org.apache.catalina.LifecycleException: Failed to start component [StandardServer[8005]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:711)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:294)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:428)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardService[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:758)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 7 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:444)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 9 more
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1254)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:300)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 11 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	... 13 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1707)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1697)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1254)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:819)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	... 8 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: Error page location error.jsp must start with a '/'
+	at org.apache.catalina.core.StandardContext.addErrorPage(StandardContext.java:3200)
+	at org.apache.catalina.deploy.WebXml.configureContext(WebXml.java:1348)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1300)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:881)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5590)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+
+三月 04, 2019 3:37:31 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:37:31 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:37:31 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+三月 04, 2019 3:37:31 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:37:31 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
+
+2019-03-04 15:37:43 Commons Daemon procrun stderr initialized
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.93
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Feb 16 2019 17:13:17 UTC
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.93.0
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 7
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            6.1
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java\jre1.8.0_191
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_191-b12
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 7.0\temp
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 7.0\conf\logging.properties
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: exit
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: abort
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xms128m
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xmx256m
+三月 04, 2019 3:37:44 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Apache Software Foundation\Tomcat 7.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Program Files\Java\jdk1.8.0_191\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;;.
+三月 04, 2019 3:37:44 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:37:44 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:37:44 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 728 ms
+三月 04, 2019 3:37:44 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2019 3:37:44 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.93
+三月 04, 2019 3:37:45 下午 org.apache.catalina.core.ContainerBase startInternal
+严重: A child container failed during start
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:819)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1707)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1697)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: Error page location error.jsp must start with a '/'
+	at org.apache.catalina.core.StandardContext.addErrorPage(StandardContext.java:3200)
+	at org.apache.catalina.deploy.WebXml.configureContext(WebXml.java:1348)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1300)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:881)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5590)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+
+三月 04, 2019 3:37:45 下午 org.apache.catalina.core.ContainerBase startInternal
+严重: A child container failed during start
+java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:300)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:444)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:758)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:711)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:294)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:428)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1707)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1697)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1254)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:819)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	... 8 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: Error page location error.jsp must start with a '/'
+	at org.apache.catalina.core.StandardContext.addErrorPage(StandardContext.java:3200)
+	at org.apache.catalina.deploy.WebXml.configureContext(WebXml.java:1348)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1300)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:881)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5590)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+
+三月 04, 2019 3:37:45 下午 org.apache.catalina.startup.Catalina start
+严重: The required Server component failed to start so Tomcat is unable to start.
+org.apache.catalina.LifecycleException: Failed to start component [StandardServer[8005]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:711)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:294)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:428)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardService[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:758)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 7 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:444)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 9 more
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1254)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:300)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 11 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	... 13 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1707)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1697)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1254)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:819)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.util.concurrent.FutureTask.get(Unknown Source)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1243)
+	... 8 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:162)
+	... 6 more
+Caused by: java.lang.IllegalArgumentException: Error page location error.jsp must start with a '/'
+	at org.apache.catalina.core.StandardContext.addErrorPage(StandardContext.java:3200)
+	at org.apache.catalina.deploy.WebXml.configureContext(WebXml.java:1348)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1300)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:881)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5590)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	... 6 more
+
+三月 04, 2019 3:37:45 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:37:45 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:37:45 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+三月 04, 2019 3:37:45 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:37:45 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
+
+2019-03-04 15:40:14 Commons Daemon procrun stderr initialized
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.93
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Feb 16 2019 17:13:17 UTC
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.93.0
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 7
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            6.1
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java\jre1.8.0_191
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_191-b12
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 7.0\temp
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 7.0\conf\logging.properties
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: exit
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: abort
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xms128m
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xmx256m
+三月 04, 2019 3:40:15 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Apache Software Foundation\Tomcat 7.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Program Files\Java\jdk1.8.0_191\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;;.
+三月 04, 2019 3:40:15 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:40:15 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:40:15 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 703 ms
+三月 04, 2019 3:40:15 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2019 3:40:15 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.93
+三月 04, 2019 3:40:16 下午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+三月 04, 2019 3:40:16 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\docs
+三月 04, 2019 3:40:16 下午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+三月 04, 2019 3:40:16 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\docs has finished in 263 ms
+三月 04, 2019 3:40:16 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\manager
+三月 04, 2019 3:40:16 下午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+三月 04, 2019 3:40:16 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\manager has finished in 217 ms
+三月 04, 2019 3:40:16 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT
+三月 04, 2019 3:40:17 下午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+三月 04, 2019 3:40:17 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT has finished in 245 ms
+三月 04, 2019 3:40:17 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:40:17 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:40:17 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1601 ms
+三月 04, 2019 3:45:20 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:45:20 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:45:20 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+三月 04, 2019 3:45:20 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:45:20 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:45:20 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:45:20 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-bio-8009"]
+
+2019-03-04 15:45:32 Commons Daemon procrun stderr initialized
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.93
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Feb 16 2019 17:13:17 UTC
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.93.0
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 7
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            6.1
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java\jre1.8.0_191
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_191-b12
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 7.0
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 7.0\temp
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 7.0\conf\logging.properties
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: exit
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: abort
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xms128m
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Xmx256m
+三月 04, 2019 3:45:33 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Apache Software Foundation\Tomcat 7.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Program Files\Java\jdk1.8.0_191\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;;.
+三月 04, 2019 3:45:33 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:45:33 下午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:45:33 下午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 706 ms
+三月 04, 2019 3:45:33 下午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+三月 04, 2019 3:45:33 下午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.93
+三月 04, 2019 3:45:34 下午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+三月 04, 2019 3:45:34 下午 org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+警告: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [105] milliseconds.
+三月 04, 2019 3:45:34 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\docs
+三月 04, 2019 3:45:34 下午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+三月 04, 2019 3:45:34 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\docs has finished in 229 ms
+三月 04, 2019 3:45:34 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\manager
+三月 04, 2019 3:45:34 下午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+三月 04, 2019 3:45:34 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\manager has finished in 224 ms
+三月 04, 2019 3:45:34 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT
+三月 04, 2019 3:45:34 下午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+三月 04, 2019 3:45:34 下午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\ROOT has finished in 213 ms
+三月 04, 2019 3:45:34 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-bio-80"]
+三月 04, 2019 3:45:34 下午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-bio-8009"]
+三月 04, 2019 3:45:34 下午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 1562 ms
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+Mon Mar 04 15:59:55 CST 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Mar 04 16:01:46 CST 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Mar 04 16:02:19 CST 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Mar 04 16:02:22 CST 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Mar 04 16:02:22 CST 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Mar 04 16:02:23 CST 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Mar 04 16:02:23 CST 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Mar 04 16:07:42 CST 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Mar 04 16:08:05 CST 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Mar 04 16:13:14 CST 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Mar 04 16:14:54 CST 2019 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
